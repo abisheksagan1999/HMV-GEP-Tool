@@ -5,4 +5,3 @@ pillow
 fuzzywuzzy
 python-Levenshtein
 openpyxl
-streamlit-conflitto
